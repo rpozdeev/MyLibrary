@@ -4,4 +4,8 @@ struct MyLibrary {
     func sayHello() -> String {
         return text
     }
+    
+    func isOk() -> Bool {
+        return true
+    }
 }
