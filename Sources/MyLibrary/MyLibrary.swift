@@ -1,4 +1,4 @@
-public struct MyLibrary {
+struct MyLibrary {
     var text = "Hello, World!"
     
     func sayHello() -> String {
